@@ -1,0 +1,41 @@
+
+  body{
+      background-color: rgb(118, 216, 115);
+  }
+  h1{
+  color:red
+  }
+  /**{
+  border:solid
+  }*/
+  .hedder{
+      background-color: rgb(230,203,132);
+      display:flex;
+      justify-content: space-between
+      
+  }
+
+  .menu{
+      background-color: rgb(230,203,132);
+      display: flex;
+      justify-content: space-between;
+      
+    
+  }
+        
+  .game{
+      background-color: rgb(209, 163, 130);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+
+  .futer{
+      display: flex;
+      justify-content: flex-end;
+  }
+
+  p,h2{
+      text-align: center;
+      color: rgb(200,0,90);
+  }
